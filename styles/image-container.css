@@ -1,0 +1,12 @@
+.image-templates {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	justify-content: space-evenly;
+}
+
+.image-templates img {
+	width: 80%;
+	height: 500px;
+	object-fit: cover;
+	border-radius: 10px;
+}
