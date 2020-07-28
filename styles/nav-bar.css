@@ -1,0 +1,21 @@
+.nav-links {
+	background-color: orange;
+	padding: 10px;
+	border-radius: 5px;
+}
+
+.nav-links:hover {
+	background-color: blue;
+}
+
+.nav-links a {
+	text-decoration: none;
+}
+
+.nav-buttons {
+	display: flex;
+	justify-content: space-around;
+	background-color: red;
+	padding: 30px;
+	margin: -8px -8px 0px -8px;
+}
