@@ -1,11 +1,11 @@
 .nav-links {
-	background-color: #8D8741;
+	background-color: #FBEEC1;
 	padding: 10px;
 	border-radius: 5px;
 }
 
 .nav-links:hover {
-	background-color: #FBEEC1;
+	background-color: #8D8741;
 }
 
 .nav-links a {
